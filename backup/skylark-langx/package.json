@@ -1,0 +1,78 @@
+{
+  "_from": "git+https://github.com/skylarkjs/skylark-langx.git#master",
+  "_id": "skylark-langx@0.9.5",
+  "_inBundle": false,
+  "_integrity": "sha1-08xARr1fcm1hQmOiLqp9X6wCOGo=",
+  "_location": "/skylark-langx",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "skylark-langx@git+https://github.com/skylarkjs/skylark-langx.git#master",
+    "name": "skylark-langx",
+    "escapedName": "skylark-langx",
+    "rawSpec": "git+https://github.com/skylarkjs/skylark-langx.git#master",
+    "saveSpec": "git+https://github.com/skylarkjs/skylark-langx.git#master",
+    "fetchSpec": "https://github.com/skylarkjs/skylark-langx.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "/skynode-server"
+  ],
+  "_resolved": "git+https://github.com/skylarkjs/skylark-langx.git#5ef57dc52708c69ab2647e79eeeac1580eb3ffb6",
+  "_spec": "skylark-langx@git+https://github.com/skylarkjs/skylark-langx.git#master",
+  "_where": "C:\\Studio\\Studio2\\21_SKY\\research\\filer\\node_modules\\skynode-server",
+  "author": {
+    "name": "Hudaokeji Co.,Ltd"
+  },
+  "bugs": {
+    "url": "https://github.com/skylarkjs/skylark-langx/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "A simple JavaScript language extension library, including class support, Evented class, Deferred class and some commonly used tool functions.",
+  "devDependencies": {
+    "del": "^1.2.1",
+    "gulp": "^3.9.0",
+    "gulp-amd-optimizer": "^0.3.4",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-babel": "^5.2.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-footer": "^1.0.5",
+    "gulp-header": "^1.7.1",
+    "gulp-jslint": "~0.2.2",
+    "gulp-livereload": "^3.8.0",
+    "gulp-rename": "~1.2.2",
+    "gulp-replace": "^0.6.1",
+    "gulp-requirejs": "^1.0.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.5.4",
+    "gulp-usemin": "^0.3.11",
+    "gulp-util": "^3.0.6",
+    "run-sequence": "^2.1.0"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "homepage": "http://www.skylarkjs.org",
+  "keywords": [
+    "skylark",
+    "skylarkjs",
+    "javacript",
+    "class",
+    "Evented",
+    "Deferred"
+  ],
+  "license": "MIT",
+  "main": "./index",
+  "name": "skylark-langx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skylarkjs/skylark-langx.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.9.5"
+}

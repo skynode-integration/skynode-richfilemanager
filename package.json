@@ -1,0 +1,21 @@
+{
+  "name": "filer",
+  "version": "0.0.1",
+  "description": "filer",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/snodesrv",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "filer"
+  ],
+  "author": "lwf",
+  "license": "ISC",
+  "dependencies": {
+    "rich-filemanager-node": "^0.1.5",
+    "skylark-langx": "git+https://github.com/skylarkjs/skylark-langx.git",
+    "skynode-server": "git+https://github.com/skylarknode/skynode-server.git",
+    "winston": "^3.1.0"
+  }
+}
